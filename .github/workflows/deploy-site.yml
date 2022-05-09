@@ -21,11 +21,11 @@ jobs:
         uses: actions/upload-artifact@v3
         with:
           name: Binary
-          path: target/release/openorbiterwebsite
+          path: target/x86_64-unknown-linux-gnu/release/openorbiterwebsite
       - name: Set up SSH key for deploy
         uses: shimataro/ssh-key-action@v2
         with:
           key: ${{ secrets.DEPLOYKEY }}
           known_hosts: ${{ secrets.DEPLOYHOSTS }}
       - name: Push built asset to server
-        run: scp -P ${{ secrets.DEPLOYPORT }} target/release/openorbiterwebsite github-deployer@atlantis.orbiterforum.com:/srv/www/openorbiterwebsite
+        run: scp -P 8777 target/x86_64-unknown-linux-gnu/release/openorbiterwebsite github-deployer@atlantis.orbiterforum.com:/srv/www/openorbiterwebsite
