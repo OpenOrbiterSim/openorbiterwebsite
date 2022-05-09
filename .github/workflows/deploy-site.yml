@@ -8,6 +8,7 @@ jobs:
   build:
     name: Build
     runs-on: ubuntu-latest
+    container: quay.io/pypa/manylinux2014_x86_64
     steps:
       - uses: actions/checkout@main
       - name: Compile
@@ -20,8 +21,7 @@ jobs:
         uses: actions/upload-artifact@v3
         with:
           name: Binary
-          path: |
-            target/release/openorbiterwebsite
+          path: target/release/openorbiterwebsite
       - name: Set up SSH key for deploy
         uses: shimataro/ssh-key-action@v2
         with:
