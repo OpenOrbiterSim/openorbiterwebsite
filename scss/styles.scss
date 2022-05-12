@@ -6,7 +6,7 @@
 @import "./variables.scss";
 
 // Import Bootstrap
-@import "bootstrap/scss/bootstrap.scss";
+@import "../node_modules/bootstrap/scss/bootstrap";
 
 // Global CSS
 @import "./global.scss";
@@ -20,5 +20,4 @@
 @import "./sections/portfolio.scss";
 @import "./sections/timeline.scss";
 @import "./sections/team.scss";
-@import "./sections/contact.scss";
 @import "./sections/footer.scss";
