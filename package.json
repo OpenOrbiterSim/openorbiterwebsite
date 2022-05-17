@@ -1,6 +1,7 @@
 {
   "scripts": {
-    "build:scss": "sass scss/styles.scss static/css/styles.css"
+    "build:scss": "sass scss/styles.scss static/css/styles.css",
+    "build:scss-watch": "sass --watch scss/styles.scss static/css/styles.css"
   },
   "dependencies": {
     "bootstrap": "^5.1.3"
