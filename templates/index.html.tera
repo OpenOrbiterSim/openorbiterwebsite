@@ -43,8 +43,7 @@
                             <i class="fas fa-shopping-cart fa-stack-1x fa-inverse"></i>
                         </span>
                     <h4 class="my-3">Binary Builds</h4>
-                    <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam
-                        architecto quo inventore harum ex magni, dicta impedit.</p>
+                    <p class="text-muted">No need to compile the source yourself; binary builds are available.</p>
                 </div>
                 <div class="col-md-4">
                         <span class="fa-stack fa-4x">
@@ -52,8 +51,7 @@
                             <i class="fas fa-laptop fa-stack-1x fa-inverse"></i>
                         </span>
                     <h4 class="my-3">Batteries Included</h4>
-                    <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam
-                        architecto quo inventore harum ex magni, dicta impedit.</p>
+                    <p class="text-muted">Sound, Visualisation Engines and more - included by default.</p>
                 </div>
                 <div class="col-md-4">
                         <span class="fa-stack fa-4x">
@@ -61,8 +59,8 @@
                             <i class="fas fa-lock fa-stack-1x fa-inverse"></i>
                         </span>
                     <h4 class="my-3">Continuous Development</h4>
-                    <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam
-                        architecto quo inventore harum ex magni, dicta impedit.</p>
+                    <p class="text-muted">Everyone is free to create Pull Requests for new features or bug-fixes.
+                        Changes will then be reviewed, merged and eventually added to a new Orbiter build.</p>
                 </div>
             </div>
         </div>
@@ -85,8 +83,7 @@
                             <img class="img-fluid" src="img/portfolio/1.jpg" alt="..."/>
                         </a>
                         <div class="portfolio-caption">
-                            <div class="portfolio-caption-heading">Threads</div>
-                            <div class="portfolio-caption-subheading text-muted">Illustration</div>
+                            <div class="portfolio-caption-heading">Orbiter Sound</div>
                         </div>
                     </div>
                 </div>
@@ -100,8 +97,7 @@
                             <img class="img-fluid" src="img/portfolio/2.jpg" alt="..."/>
                         </a>
                         <div class="portfolio-caption">
-                            <div class="portfolio-caption-heading">Explore</div>
-                            <div class="portfolio-caption-subheading text-muted">Graphic Design</div>
+                            <div class="portfolio-caption-heading">D3D9Client</div>
                         </div>
                     </div>
                 </div>
@@ -115,8 +111,7 @@
                             <img class="img-fluid" src="img/portfolio/3.jpg" alt="..."/>
                         </a>
                         <div class="portfolio-caption">
-                            <div class="portfolio-caption-heading">Finish</div>
-                            <div class="portfolio-caption-subheading text-muted">Identity</div>
+                            <div class="portfolio-caption-heading">Multistage2015</div>
                         </div>
                     </div>
                 </div>
@@ -128,7 +123,7 @@
         <div class="container">
             <div class="text-center">
                 <h2 class="section-heading text-uppercase">About</h2>
-                <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
+                <h3 class="section-subheading text-muted">The long history of Orbiter</h3>
             </div>
             <ul class="timeline">
                 <li>
@@ -136,8 +131,8 @@
                     </div>
                     <div class="timeline-panel">
                         <div class="timeline-heading">
-                            <h4>2009-2011</h4>
-                            <h4 class="subheading">Our Humble Beginnings</h4>
+                            <h4>2001</h4>
+                            <h4 class="subheading">3.. 2.. 1.. - Liftoff!</h4>
                         </div>
                         <div class="timeline-body"><p class="text-muted">Lorem ipsum dolor sit amet, consectetur
                                 adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui
