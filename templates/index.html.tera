@@ -131,7 +131,7 @@
                     </div>
                     <div class="timeline-panel">
                         <div class="timeline-heading">
-                            <h4>May 2001</h4>
+                            <h4>November 2000</h4>
                             <h4 class="subheading">3.. 2.. 1.. - Liftoff!</h4>
                         </div>
                         <div class="timeline-body"><p class="text-muted">The initial version of Orbiter is released.</p>
@@ -146,8 +146,7 @@
                             <h4>April 2002</h4>
                             <h4 class="subheading">The Next Step</h4>
                         </div>
-                        <div class="timeline-body"><p class="text-muted">Orbiter is gaining traction and version 2002 is
-                                released.</p></div>
+                        <div class="timeline-body"><p class="text-muted">Orbiter 2002 is released.</p></div>
                     </div>
                 </li>
                 <li>
@@ -156,12 +155,10 @@
                     <div class="timeline-panel">
                         <div class="timeline-heading">
                             <h4>March 2003</h4>
-                            <h4 class="subheading">Transition to Full Service</h4>
+                            <h4 class="subheading">Orbiter 2003 launched</h4>
                         </div>
-                        <div class="timeline-body"><p class="text-muted">Lorem ipsum dolor sit amet, consectetur
-                                adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui
-                                quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium
-                                consectetur!</p></div>
+                        <div class="timeline-body"><p class="text-muted">After 4 versions of Orbiter 2002, it's retired
+                                and Orbiter 2003 is launched along with the infamous Dragonfly.</p></div>
                     </div>
                 </li>
                 <li class="timeline-inverted">
@@ -169,24 +166,80 @@
                     </div>
                     <div class="timeline-panel">
                         <div class="timeline-heading">
-                            <h4>July 2020</h4>
-                            <h4 class="subheading">Phase Two Expansion</h4>
+                            <h4>June 2005</h4>
+                            <h4 class="subheading">Switching to high-definition textures.</h4>
                         </div>
-                        <div class="timeline-body"><p class="text-muted">Lorem ipsum dolor sit amet, consectetur
-                                adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui
-                                quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium
-                                consectetur!</p></div>
+                        <div class="timeline-body"><p class="text-muted">After 2 years since the previous version, 2005
+                                is launched. It included high-definition textures as a separate download.</p></div>
+                    </div>
+                </li>
+                <li>
+                    <div class="timeline-image"><img class="rounded-circle img-fluid" src="img/about/3.jpg" alt="..."/>
+                    </div>
+                    <div class="timeline-panel">
+                        <div class="timeline-heading">
+                            <h4>May 2006</h4>
+                            <h4 class="subheading">The famous one I</h4>
+                        </div>
+                        <div class="timeline-body"><p class="text-muted">Orbiter 2006 is released. This version would
+                                become one of the most popular releases.</p></div>
                     </div>
                 </li>
                 <li class="timeline-inverted">
-                    <div class="timeline-image">
-                        <h4>
-                            Be Part
-                            <br/>
-                            Of Our
-                            <br/>
-                            Story!
-                        </h4>
+                    <div class="timeline-image"><img class="rounded-circle img-fluid" src="img/about/3.jpg" alt="..."/>
+                    </div>
+                    <div class="timeline-panel">
+                        <div class="timeline-heading">
+                            <h4>June 2010</h4>
+                            <h4 class="subheading">The famous one II</h4>
+                        </div>
+                        <div class="timeline-body"><p class="text-muted">With Orbiter 2010 released, users and
+                                developers quickly move from 2006 to 2010. Many of the add-ons released to date started
+                                with Orbiter 2010.</p></div>
+                    </div>
+                </li>
+                <li class="timeline">
+                    <div class="timeline-image"><img class="rounded-circle img-fluid" src="img/about/3.jpg" alt="..."/>
+                    </div>
+                    <div class="timeline-panel">
+                        <div class="timeline-heading">
+                            <h4>June 2016</h4>
+                            <h4 class="subheading">All the new features</h4>
+                        </div>
+                        <div class="timeline-body"><p class="text-muted">Orbiter 2016 released with a lot of new
+                                features and APIs. This was the final release of the closed-source version.</p></div>
+                    </div>
+                </li>
+                <li class="timeline-inverted">
+                    <div class="timeline-image"><img class="rounded-circle img-fluid" src="img/about/3.jpg" alt="..."/>
+                    </div>
+                    <div class="timeline-panel">
+                        <div class="timeline-heading">
+                            <h4>July 2021</h4>
+                            <h4 class="subheading">Time to open-up</h4>
+                        </div>
+                        <div class="timeline-body"><p class="text-muted">"In order to keep Orbiter alive and allow
+                                others to work on it, I have decided to publish the sources under an open source
+                                license" - Martin Schweiger</p></div>
+                    </div>
+                </li>
+                <li class="timeline">
+                    <div class="timeline-image"><img class="rounded-circle img-fluid" src="img/about/3.jpg" alt="..."/>
+                    </div>
+                    <div class="timeline-panel">
+                        <div class="timeline-heading">
+                            <h4>June 2022</h4>
+                            <h4 class="subheading">Open Orbiter Sim</h4>
+                        </div>
+                        <div class="timeline-body"><p class="text-muted">To keep some aspects separated from the core
+                                repo, Open Orbiter Sim is launched.</p></div>
+                    </div>
+                </li>
+                <li class="timeline-inverted">
+                    <div class="d-flex justify-content-center align-items-center timeline-image">
+                        <h3>
+                            Now
+                        </h3>
                     </div>
                 </li>
             </ul>
