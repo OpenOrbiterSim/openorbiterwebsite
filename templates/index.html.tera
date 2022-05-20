@@ -131,13 +131,11 @@
                     </div>
                     <div class="timeline-panel">
                         <div class="timeline-heading">
-                            <h4>2001</h4>
+                            <h4>May 2001</h4>
                             <h4 class="subheading">3.. 2.. 1.. - Liftoff!</h4>
                         </div>
-                        <div class="timeline-body"><p class="text-muted">Lorem ipsum dolor sit amet, consectetur
-                                adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui
-                                quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium
-                                consectetur!</p></div>
+                        <div class="timeline-body"><p class="text-muted">The initial version of Orbiter is released.</p>
+                        </div>
                     </div>
                 </li>
                 <li class="timeline-inverted">
@@ -145,13 +143,11 @@
                     </div>
                     <div class="timeline-panel">
                         <div class="timeline-heading">
-                            <h4>March 2011</h4>
-                            <h4 class="subheading">An Agency is Born</h4>
+                            <h4>April 2002</h4>
+                            <h4 class="subheading">The Next Step</h4>
                         </div>
-                        <div class="timeline-body"><p class="text-muted">Lorem ipsum dolor sit amet, consectetur
-                                adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui
-                                quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium
-                                consectetur!</p></div>
+                        <div class="timeline-body"><p class="text-muted">Orbiter is gaining traction and version 2002 is
+                                released.</p></div>
                     </div>
                 </li>
                 <li>
@@ -159,7 +155,7 @@
                     </div>
                     <div class="timeline-panel">
                         <div class="timeline-heading">
-                            <h4>December 2015</h4>
+                            <h4>March 2003</h4>
                             <h4 class="subheading">Transition to Full Service</h4>
                         </div>
                         <div class="timeline-body"><p class="text-muted">Lorem ipsum dolor sit amet, consectetur
