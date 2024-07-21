@@ -5,5 +5,5 @@ pub mod openorbiterwebsite;
 
 #[rocket::main]
 async fn main() {
-    openorbiterwebsite::run().await;
+    let _ = openorbiterwebsite::run().await;
 }
