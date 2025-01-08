@@ -3,7 +3,7 @@ name: Deploy
 on:
   push:
     branches:
-      - gh-pages-site
+      - main
 
 jobs:
   build:
@@ -37,7 +37,7 @@ jobs:
       pages: write
       contents: write
 
-    if: github.ref == 'refs/heads/gh-pages-site'
+    if: github.ref == 'refs/heads/main'
 
     steps:
       - name: Download artifact
