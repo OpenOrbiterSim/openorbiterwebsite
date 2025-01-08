@@ -33,6 +33,9 @@ jobs:
     name: Deploy
     needs: Build
     runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      contents: write
 
     if: github.ref == 'refs/heads/gh-pages-site'
 
