@@ -2,7 +2,8 @@ name: Build and Deploy
 
 on:
   release:
-    types: [released]
+    types:
+      - released
 
 jobs:
   build:
