@@ -48,7 +48,7 @@ jobs:
 
       - name: Setup CNAME file
         run: echo "openorbiter.space" > ./dist/CNAME
-      
+
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v4
         with:
