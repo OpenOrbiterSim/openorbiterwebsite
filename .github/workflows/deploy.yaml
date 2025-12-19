@@ -2,6 +2,7 @@ name: Build and Deploy
 
 on:
   release:
+    types: [released]
 
 jobs:
   build:
@@ -12,6 +13,7 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v6
         with:
+          ref: ${{ github.ref }}
           fetch-depth: 0
 
       - name: Setup Node
