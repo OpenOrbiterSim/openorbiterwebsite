@@ -4,6 +4,11 @@ on:
   release:
     types:
       - released
+  workflow_dispatch:
+    inputs:
+      ref:
+        description: 'The git reference (tag) to build deploy.'
+        required: false  
 
 jobs:
   build:
@@ -14,7 +19,7 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v6
         with:
-          ref: ${{ github.ref }}
+          ref: ${{ github.ref || github.event.inputs.ref }}
           fetch-depth: 0
 
       - name: Setup Node
